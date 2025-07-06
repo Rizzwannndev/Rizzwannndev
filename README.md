@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/rizzwannndev">
-    <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&vCenter=true&lines=Programmer+%7C+Tech+Enthusiast;Engineering+solutions;Always+learning+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&vCenter=true&lines=Programmer+%7C+Tech+Enthusiast;Engineering+solutions;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,13 +16,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/rizwanwaseem_" target="blank">
+  <a href="https://twitter.com/rizwanwaseem_" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizwanwaseem_" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/rizwan-waseem" target="blank">
+  <a href="https://www.linkedin.com/in/rizwan-waseem" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizwan-waseem" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/rizwanwaseem_" target="blank">
+  <a href="https://instagram.com/rizwanwaseem_" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizwanwaseem_" height="30" width="40" />
   </a>
 </p>
@@ -76,16 +76,14 @@
 
 <h3 align="left">GitHub Stats (Dark Theme):</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizzwannndev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizzwannndev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
-<p>&nbsp;</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizzwannndev&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizzwannndev&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizzwannndev&theme=dark" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizzwannndev&theme=dark" alt="GitHub Streak" />
 </p>
