@@ -1,4 +1,4 @@
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%fff)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 <h1 align="center">Hi 👋, I'm Rizwan Waseem</h1>
 <h3 align="center">Passionate Programmer | Breaking and Building Code</h3>
 
